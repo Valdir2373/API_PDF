@@ -1,5 +1,5 @@
 import express from "express";
-import routerPDF from "./back-end/constroller.js";
+import routerPDF from "./constroller.js";
 
 const app = express();
 
