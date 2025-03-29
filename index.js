@@ -1,5 +1,4 @@
 import express from "express";
-// Importe o módulo fs/promises para usar async/await
 import routerPDF from "./back-end/constroller.js";
 
 const app = express();
